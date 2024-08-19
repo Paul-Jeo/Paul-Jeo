@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Paul-Jeo/Paul-Jeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm Paul Jeo, here are some tags to me: 
 - 🔭 I’m currently working on SHU
 - 🌱 I’m currently learning LLM, and i am interested in apply LLM to humanities and social sciences
 - 👯 I’m looking to collaborate on research.
